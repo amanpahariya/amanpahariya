@@ -2,10 +2,6 @@
 
 Welcome to my vibrant portfolio repository! This README provides an overview of my skills, experience, and projects.
 
-<div align="center">
-  <img src="https://example.com/rocket.svg" alt="Rocket SVG" width="200" />
-</div>
-
 ## 🚀 About Me
 
 I'm Aman Gupta, a passionate and dedicated Full Stack Developer with expertise in web technologies and cloud services. I have a strong background in JavaScript, React.js, Node.js, MongoDB, and cloud platforms like AWS and Heroku.
