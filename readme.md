@@ -9,13 +9,13 @@ I'm Aman Gupta, a passionate and dedicated Full Stack Developer with expertise i
 - 📧 Email: amangupta201497@gmail.com
 - 📍 Location: Mumbai, India
 - 📚 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/amanguptag)
-- 💼 GitHub: [GitHub Profile](https://github.com/amanpahariya)
 
 ## 💼 Professional Experience
 
 ### Invock Digital Private Limited | Oct 2021 - Present
 - **Role**: Software Engineer
-- **Responsibilities**: I have been working as a Software Engineer at Invock Digital Private Limited since October 2021. In this role, I have been responsible for optimizing frontend and backend applications, solving bugs, handling errors, and implementing various improvements to enhance software performance and user experience. Notable achievements during this period include:
+- **Responsibilities**:
+  - I have been working as a Software Engineer at Invock Digital Private Limited since October 2021. In this role, I have been responsible for optimizing frontend and backend applications, solving bugs, handling errors, and implementing various improvements to enhance software performance and user experience. Notable achievements during this period include:
 
   - Frontend Optimization: Resolved bugs, implemented error handling, and introduced data validation before sending data to the backend. Employed ReactJs Hooks to prevent unnecessary re-renders, resulting in smoother user interfaces.
   
